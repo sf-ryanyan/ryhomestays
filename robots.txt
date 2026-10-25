@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sf-ryanyan.github.io/ryhomestays/sitemap.xml
